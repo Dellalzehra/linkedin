@@ -1,0 +1,96 @@
+nav{
+    height: 50px;
+    width: 100%;
+    justify-content: space-between;
+    display: flex;
+    }
+    
+body{
+    background-color: #e6e1dd;
+}
+ul li{
+        align-items: center;
+        margin-right: 38px;
+        text-decoration: underline;
+    }
+.vr {
+        border-left: 1px solid #aca49c;
+        height: 50px;
+       
+    }
+.box{
+    width: 203px;
+    height: 357px;
+    background-color: white;
+    margin: 95px;
+}
+.kutu1 a{
+    color: black;
+    text-decoration: none;
+    text-align:end;
+}
+.kutu1{
+    background-image:  url(foto.jpg);
+}
+.pro img{
+    position: relative;
+    left: 60px;
+    border-radius: 50%;
+}
+.box{
+    display: inline-block;
+    position: relative;
+    bottom: 20px;
+    
+}
+.box2{
+    width: 203px;
+    height: 155px;
+    position: relative;
+    left: 95px;
+    bottom: 110px ;
+    
+    background-color: white;
+}
+.kutu2 section{
+    font-size: 13px;
+    padding-left: 12px;
+    padding-bottom: 5px;
+    padding-top: 8px;
+    color: #0a66c2;
+}  
+.sharebox{
+    width: 515px;
+    height: 120px;
+    background: #ffffff;
+  
+}
+.sharebox{
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    position: relative;
+    left: 320px;
+    bottom: 630px;
+}
+.photo img{
+    border-radius: 50%;
+    padding: 1px;
+    margin-left: 15px;
+    margin-top: 9px;
+}
+.sharebox .artdeco{
+    width: 405px;
+    height: 48px;
+    display: flex;
+    background-color: white;
+    
+    align-items: center;
+    justify-content: left;
+    border-radius: 35px;
+    position: relative;
+    margin-left: 73px;
+    margin-bottom: 30px;
+    
+}
+ 
